@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyApi.Domain", "MyApi.Domain\MyApi.Domain.csproj", "{6C9F8BF2-7B87-4970-8F9B-DAB196C65039}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyApi.Data", "MyApi.Data\MyApi.Data.csproj", "{4FBB9B28-5271-49BD-AA8A-AC0AABD4F588}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyApi.Api", "MyApi.Api\MyApi.Api.csproj", "{F537A8B6-18C7-4510-A81F-B1C5675D01A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C9F8BF2-7B87-4970-8F9B-DAB196C65039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C9F8BF2-7B87-4970-8F9B-DAB196C65039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C9F8BF2-7B87-4970-8F9B-DAB196C65039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C9F8BF2-7B87-4970-8F9B-DAB196C65039}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FBB9B28-5271-49BD-AA8A-AC0AABD4F588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FBB9B28-5271-49BD-AA8A-AC0AABD4F588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FBB9B28-5271-49BD-AA8A-AC0AABD4F588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FBB9B28-5271-49BD-AA8A-AC0AABD4F588}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F537A8B6-18C7-4510-A81F-B1C5675D01A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F537A8B6-18C7-4510-A81F-B1C5675D01A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F537A8B6-18C7-4510-A81F-B1C5675D01A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F537A8B6-18C7-4510-A81F-B1C5675D01A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCCD6547-1D44-4ACB-AE4A-6945A99C60C7}
+	EndGlobalSection
+EndGlobal
